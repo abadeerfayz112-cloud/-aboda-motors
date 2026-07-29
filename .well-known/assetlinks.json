@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.abadeerfayz112_cloud.twa",
+    "sha256_cert_fingerprints": ["8B:71:43:5E:C2:9A:39:16:7F:53:51:77:21:90:94:F2:BC:B6:E6:A6:4A:18:83:9E:11:CE:5B:DC:75:4E:97:4C"]
+  }
+}]
